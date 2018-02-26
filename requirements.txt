@@ -1,0 +1,9 @@
+cffi==1.9.0
+enum34==1.1.6
+greenlet==0.4.10
+imageio==2.2.0
+numpy==1.10.0
+olefile==0.44
+Pillow==4.3.0
+readline==6.2.4.1
+repoze.lru==0.7
